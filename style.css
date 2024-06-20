@@ -45,3 +45,11 @@ body {
     font-size: 17px;/* Adjust text size to fit the component */
    }
 }
+
+.attribution {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+}
